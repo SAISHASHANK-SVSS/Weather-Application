@@ -35,6 +35,7 @@ Follow these steps to get started with the Weather App:
 - CSS
 - JavaScript
 - OpenWeather API
+- VS CODE
 
 ## License
 This Weather App is licensed under the [MIT License](LICENSE).
