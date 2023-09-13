@@ -1,5 +1,5 @@
 const weather = {
-  apiKey: "b8dc907847a0dd33399ed3f9d6f7b122",
+  apiKey: "your_apikey",
   fetchWeather: function (location) {
     document.querySelector(".weather").classList.add("loading");
 
